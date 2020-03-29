@@ -4,7 +4,7 @@
 - Email   : rayavarapuvikram1@gmail.com  
 - Github  : [rayavarapuvikram1](https://github.com/rayavarapuvikram1/)  
 - Phone Number : +91-8919369538  
-- My Blog : [rayavarapuvikram1.ml](rayavarapuvikram1.ml)
+- My Blog : [rayavarapuvikram1.ml](http://rayavarapuvikram1.ml/)
 - Country/ Region: Durgapur, India
 
 University and Current Enrollment:
