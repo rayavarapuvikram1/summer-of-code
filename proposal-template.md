@@ -98,7 +98,7 @@ Yes, I code on Github. Here are some of my contributions.
 
 ## Why this project?
 
-I like to work on hardware development. My interests and experience and knowledge made me chose this project.
+I like to work on hardware development. My interests and experience and knowledge made me to choose this project.
 
 ## Do you have any other commitments during the GSoC period?
 
