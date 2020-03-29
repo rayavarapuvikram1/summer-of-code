@@ -1,65 +1,76 @@
-#  Title 
+# Title
+
+MicroPython examples and tools for Portenta H7.
 
 ## Abstract
 
-_Short description of your project. Max 10 sentences. This **SHOULD NOT** be a
-copy of the project idea text._
+Portenta H7 is a multiprocessor microcomputer which can run multiple tasks at once. MicroPython helps in building tools and programming this board.
 
 ## Technical Details
 
-_Long description of the project. **Must** include all technical details of the
-projects, like libraries involved._
-
-_Here you can show relevant pieces of code that you want to change. You can
-link to literature you used during the research._
+We can implement the tools with the help of MicroPython. It has lightweight libraries and easy to interact with the hardware components.
 
 ## Schedule of Deliverables
 
-_Here should come a list of your milestones. This list is a start based on the
-difference phases of GSoC. Use it as a start. You can/should add more details
-for each phase by breaking it down into weeks or set specific targets for each
-phase. Each target should be split into sub task with a time estimate, [work
-breakdown structures](https://en.wikipedia.org/wiki/Work_breakdown_structure) are helpful here._
+1. Board Setup
+    1. Learning and Practicing MicroPython  
+    2. Interfacing the external peripherals with Portenta.
+    3. Debugging interface with external peripherals
+
+2. Examples of MicroPython for Portenta
+    1. Creating a Github Repository for hosting the examples
+    2. Converting Arduino examples into MicroPython
+
+3. Tools for Portenta
+    1. Implementation of Bluetooth low energy device scanner and interface with Portenta board.
+    2. Implementation of tools like Nmap, Wireshark which enables the board to use for pen-testing purposes also.
 
 ### **Community Bonding Period**
 
-_What will you do during the community bonding period?_
+* In the community bonding period I will be getting familiar with the programming style guide that your organization uses.
 
-### **Phase 1**
+* Discussion and planning work with a mentor.
 
-* Deliverable 1
-* Deliverable 2
-* ...
+* Planning for weekly calls/meetings to discuss weekly works and updates of work.
 
-### **Phase 2**
+### **Phase 1**  Deliverable before the first Mid-Term evaluation
 
-* Deliverable 1
-* Deliverable 2
-* ...
+* Debugging interface with external peripherals with MicroPython on Protenta
+* Examples on interfacing with hardware components
+
+### **Phase 2**  Deliverable before the second Mid-Term evaluation
+
+* Implementation of Bluetooth Low Energy **_(B.L.E.)_** device scanner and interface with Portenta board.
+* Examples on how to use the **B.L.E.** interface tool.
 
 ### **Final Week**
 
-_At this stage you should finish up your project. At this stage you should make
-sure that you have code submitted to your organization. Our criteria to mark
-your project as a success is to submit code before the end of GSoC._
+* Implementation of tools like Nmap, Wireshark which enables the board to use for pen-testing purposes also.
+
+* Making the final documentation of tools and linking it with the examples written so that a beginner can understand
 
 ## Development Experience
 
-_Do you have code on GitHub? Can you show previous contributions to other projects?
-Did you do other code related projects or university courses?_
+Yes, I code on Github. Here are some of my contributions.  
 
-_Do you have experience with Arduino?_
+ 1. [Making Presentation slider with Mi Band](https://github.com/rayavarapuvikram1/Miband3-1/commit/9752aab31ae7379fe1515b72af1860d010716a13)  
+ 2. [Voice Assistant (Alexis)](https://github.com/bradtraversy/alexis_speech_assistant/commit/2159d2df1cbcce150677be57100cbca98d1b6d12)  
+
+ Below are some of the projects I made with Arduino and NodeMCU.  
+
+  1. [Tap Keyboard (Keyboard for blind)](https://drive.google.com/file/d/13e-IX5ErIRb9sRcOonFVntmrxVZ5qDYv/view?usp=sharing)  
+  2. [Fire Fighting Autonomous Robot](https://drive.google.com/file/d/16H3c1UY3iBCBvnctD2NLImd7hDonkyq5/view?usp=sharing)  
+  3. [Gas Leakage Notifier](https://docs.google.com/document/d/1yNtJEO9Q2LYhmnzOzFDhArYrKwWO-vtbnxSet6SRC38/edit?usp=sharing)  
 
 ## Other Experiences
 
-...
-
+* Part of the Web Application Team at Reliance Industries Limited (R.I.L.)  
+* Programmer and Project Designer at RnD CCA, NIT Durgapur
 
 ## Why this project?
 
-_Why you want to do this project?_
+I like to work on hardware development. My interests and experience and knowledge made me chose this project.
 
 ## Do you have any other commitments during the GSoC period?
 
-_Provide dates, such as holidays, when you will not be available._
-
+During GSOC I don't have any other commitments. Due to COVID 19 if there is a reschedule my academic examination I may need a break of 15 days.
