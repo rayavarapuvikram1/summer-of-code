@@ -1,10 +1,16 @@
-### Basic Information
+### Basic Information  
 
 - Name    : Vikram R.V.B.  
 - Email   : rayavarapuvikram1@gmail.com  
 - Github  : [rayavarapuvikram1](https://github.com/rayavarapuvikram1/)  
-Phone Number : +91-8919369538
+- Phone Number : +91-8919369538  
+- My Blog : [rayavarapuvikram1.ml](rayavarapuvikram1.ml)
 - Country/ Region: Durgapur, India
+
+University and Current Enrollment:
+
+- University: National Institute of Technology, Durgapur  
+- Field of Study: Electronics and Communication Engineering (Will Graduate in 2021)
 
 # Title
 
@@ -18,49 +24,59 @@ Portenta H7 is a multiprocessor microcomputer which can run multiple tasks at on
 
 We can implement the tools with the help of MicroPython. It has lightweight libraries and easy to interact with the hardware components.
 
-## Schedule of Deliverables
+## Deliverables
 
 1. Board Setup
-    1. Learning and Practicing MicroPython  
+    1. Learning and Practicing MicroPython.
     2. Interfacing the external peripherals with Portenta.
-    3. Debugging interface with external peripherals
+    3. Debugging interface with external peripherals.
 
 2. Examples of MicroPython for Portenta
-    1. Creating a Github Repository for hosting the examples
-    2. Converting Arduino examples into MicroPython
+    1. Creating a Github Repository for hosting the examples.
+    2. Converting standard Arduino examples into MicroPython for Protenta.
 
 3. Tools for Portenta
     1. Implementation of Bluetooth low energy device scanner and interface with Portenta board.
     2. Implementation of tools like Nmap, Wireshark which enables the board to use for pen-testing purposes also.
 
-First Header  | Second Header
+## Timeline
+
+Dates  | Tasks
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+May 4<sup>th</sup> to May 30<sup>th</sup> | <ul><li>Community Bonding Period</li><li>Communicating with mentor about my experiences and asking for prerequisites</li></ul>
+June 1<sup>st</sup> to June 15<sup>th</sup> | <ul><li>Learning and Practicing MicroPython</li><li>Interfacing the external peripherals with Portenta.</li></ul>
+June 15<sup>th</sup> to June 30<sup>th</sup> | <ul><li>Debugging interface with external peripherals</li><li>Creating a Github Repository for hosting the examples and hosting basic examples  
+July 1<sup>st</sup>| Phase 1 Evaluation  
+</li></ul>  July 1<sup>st</sup> to July 15<sup>th</sup> | <ul><li>Writing advanced examples in MicroPython</li><li>Converting standard Arduino examples into MicroPython for Protenta</li><ul>
+June 15<sup>th</sup> to June 30<sup>th</sup> | <ul><li>Implementation of Bluetooth low energy device scanner and interface with Portenta board.</li><li>Testing and Debugging BLE scanner</li></ul>
+July 31<sup>st</sup>|Phase 2 Evaluation
+</li></ul>  July 1<sup>st</sup> to July 15<sup>th</sup> | <ul><li>Implementation of tools like Nmap, Wireshark which enables the board to use for pen-testing purposes also.</li><li>Converting standard Arduino examples into MicroPython for Protenta</li><ul>
+June 15<sup>th</sup> to June 30<sup>th</sup> | <ul><li>Implementation of Bluetooth low energy device scanner and interface with Portenta board.</li><li>Testing and Debugging Wireshark and other tools</li><li>Documentation</li></ul>
+August 30<sup>th</sup> or 31<sup>st</sup>|Final Submission
 
 ### **Community Bonding Period**
 
-* In the community bonding period I will be getting familiar with the programming style guide that your organization uses.
+- In the community bonding period, I will be getting familiar with the programming style guide that your organization uses.
 
-* Discussion and planning work with a mentor.
+- Discussion and planning work with a mentor.
 
-* Planning for weekly calls/meetings to discuss weekly works and updates of work.
+- Planning for weekly calls/meetings to discuss weekly works and updates of work.
 
 ### **Phase 1**  Deliverable before the first Mid-Term evaluation
 
-* Debugging interface with external peripherals with MicroPython on Protenta
-* Examples on interfacing with hardware components
+- Debugging interface with external peripherals with MicroPython on Protenta
+- Examples on interfacing with hardware components
 
 ### **Phase 2**  Deliverable before the second Mid-Term evaluation
 
-* Implementation of Bluetooth Low Energy **_(B.L.E.)_** device scanner and interface with Portenta board.
-* Examples on how to use the **B.L.E.** interface tool.
+- Implementation of Bluetooth Low Energy **_(B.L.E.)_** device scanner and interface with the Portenta board.
+- Examples on how to use the **B.L.E.** interface tool.
 
 ### **Final Week**
 
-* Implementation of tools like Nmap, Wireshark which enables the board to use for pen-testing purposes also.
+- Implementation of tools like Nmap, Wireshark which enables the board to use for pen-testing purposes also.
 
-* Making the final documentation of tools and linking it with the examples written so that a beginner can understand
+- Making the final documentation of tools and linking it with the examples written so that a beginner can understand
 
 ## Development Experience
 
@@ -77,8 +93,8 @@ Yes, I code on Github. Here are some of my contributions.
 
 ## Other Experiences
 
-* Part of the Web Application Team at Reliance Industries Limited (R.I.L.)  
-* Programmer and Project Designer at RnD CCA, NIT Durgapur
+- Part of the Web Application Team at Reliance Industries Limited (R.I.L.)  
+- Programmer and Project Designer at RnD CCA, NIT Durgapur
 
 ## Why this project?
 
