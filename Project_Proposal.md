@@ -63,6 +63,7 @@ July 31<sup>st</sup>|<p align="center">Phase 2 Evaluation</p>
 August 1<sup>st</sup> to August 15<sup>th</sup> | <ul><li>Implementation of tools like Nmap, Wireshark which enables the board to use for pen-testing purposes also.</li><li>Converting standard Arduino examples into MicroPython for Protenta</li><ul>
 August 16<sup>th</sup> to August 30<sup>th</sup> | <ul><li>Implementation of Bluetooth low energy device scanner and interface with Portenta board.</li><li>Testing and Debugging Wireshark and other tools</li><li>Documentation</li></ul>
 August 30<sup>th</sup> or 31<sup>st</sup>|<p align="center">Final Submission</p>
+|
 
 ### **Community Bonding Period**
 
