@@ -9,7 +9,7 @@
 
 University and Current Enrollment:
 
-- University: National Institute of Technology, Durgapur  
+- University: National Institute of Technology, Durgapur, India.  
 - Field of Study: Electronics and Communication Engineering (Will Graduate in 2021)
 
 # Title
@@ -18,7 +18,7 @@ MicroPython examples and tools for Portenta H7.
 
 ## Abstract
 
-Portenta H7 is a multiprocessor microcomputer which can run multiple tasks at once. MicroPython helps in building tools and programming this board. To make it the most powerful board we incorporate the most powerful tools with documentation and also general-purpose board.
+Portenta H7 is a multiprocessor microcontroller which can run multiple tasks at once. MicroPython helps in building tools and programming this board. To make it the most powerful board we incorporate the most powerful tools with documentation and also general-purpose board.
 
 ## Technical Details
 
